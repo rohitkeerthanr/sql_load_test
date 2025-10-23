@@ -2,4 +2,5 @@ CREATE DATABASE sql_course;
 
 -- DROP DATABASE IF EXISTS sql_course;
 
---Sample Query
+--Sample Query 2
+--sample 3
